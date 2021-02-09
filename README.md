@@ -9,6 +9,27 @@ interesting Computer vision projects
 ## color-based face detection
 ![colored_base_fd](https://github.com/nessessence/CV_playground/blob/main/color-based-face-detection/assets/face_detection.gif)
 
+
+
+## traditional segmentation: thresholding + connected component
+### red blood cells
+<p float="left">
+  <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/rbc1.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/rbc1_out.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/rbc2.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/rbc2_out.png" width="400" height="200" />
+</p>
+
+### spores
+<p float="left">
+  <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/spore1.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/spore1_out.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/spore2.png" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/cc_based_segmentation/assets/show/spore2_out.png" width="400" height="200" />
+</p>
+
+
+
 ## card detector and warp perspective
 
 <p float="left">
@@ -17,3 +38,4 @@ interesting Computer vision projects
   <img src="https://github.com/nessessence/CV_playground/blob/main/cardDetector%26WarpPerspectivce/assets/contour_card.png" width="400" height="200"  />
   <img src="https://github.com/nessessence/CV_playground/blob/main/cardDetector%26WarpPerspectivce/assets/output_card.jpg" width="400" height="200"  />
 </p>
+
