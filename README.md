@@ -39,3 +39,8 @@ interesting Computer vision projects
   <img src="https://github.com/nessessence/CV_playground/blob/main/cardDetector%26WarpPerspectivce/assets/output_card.jpg" width="400" height="200"  />
 </p>
 
+### texture and feature extraction: raw feature segmentation 
+<p float="left">
+  <img src="https://github.com/nessessence/CV_playground/blob/main/texture%26feature_extraction/assets/Lab5-leopard.jpg" width="400" height="300" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/texture%26feature_extraction/output.jpg" width="400" height="300" />
+
