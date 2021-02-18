@@ -40,6 +40,7 @@ interesting Computer vision projects
 </p>
 
 ### texture and feature extraction: raw feature segmentation ( ResNet152, window_size: 20x20 )
+#### for higher resolution, you may try using lower window_size 
 <p float="left">
   <img src="https://github.com/nessessence/CV_playground/blob/main/texture%26feature_extraction/assets/Lab5-leopard.jpg" width="400" height="300" />
    <img src="https://github.com/nessessence/CV_playground/blob/main/texture%26feature_extraction/output.jpg" width="400" height="300" />
