@@ -49,16 +49,20 @@ interesting Computer vision projects
 #####  pyramid mean shift filtering, connected component algorithm, WaterShed algorithm, Hough, Circle Transform, IOU_thresholding 
 
 <p float="left">
+  <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/assets/Lab6-AssignmentC1.jpg" width="400" height="200" />
   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/pyrMeanShift.jpg" width="400" height="200" />
-   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/refined_Hough_segment.jpg" width="400" height="200" />
-   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/refined_segment.jpg" width="400" height="200" />
    <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/watershed.jpg" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/refined_segment.jpg" width="400" height="200" />
+   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/simple/refined_Hough_segment.jpg" width="400" height="200" />
+  
 </p>
 <p float="left">
+  <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/assets/Lab6-AssignmentC3.jpg" width="400" height="200" />
   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/pyrMeanShift.jpg" width="400" height="200" />
-   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/refined_Hough_segment.jpg" width="400" height="200" />
-   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/refined_segment.jpg" width="400" height="200" />
-   <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/watershed.jpg" width="400" height="200" />
+  <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/watershed.jpg" width="400" height="200" />
+  <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/refined_segment.jpg" width="400" height="200" />
+  <img src="https://github.com/nessessence/CV_playground/blob/main/simple_object_recognition/results/with_key/refined_Hough_segment.jpg" width="400" height="200" />
+
 </p>
 
 
